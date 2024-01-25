@@ -1,3 +1,3 @@
-sudo apt update -y
-sudo apt install maven -y
+sudo yum update -y
+sudo yum install maven -y
 mvn -version
